@@ -1,7 +1,7 @@
 # Site wide configuration
 
-title: "My Site"
-description: "This is a description of my awesome site."
+title: "My Nest"
+description: "Writings and visual arts."
 logo: # 120x120 px default image used for Twitter summary card
 teaser: # 400x250 px default teaser image used in image archive grid
 locale: en
@@ -25,14 +25,14 @@ plugins:
 
 
 # Site owner
-owner:
-  name:
-  email:
+  owner: Jeewon Yim
+  name: Jeewon Yim
+  email: wcorgi_dash@naver.com
   twitter:
   google:
     ad-client:
     ad-slot:
-  bio:
+  bio: "Another humanistic undergraduate student whose attention span is very short. Visual art, writings, mostly gaming, browsing Youtube, and a itty bitty of coding."  
   avatar: bio-photo.jpg # 160x160 px image for author byline
   disqus-shortname:
 
